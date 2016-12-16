@@ -278,6 +278,7 @@ bin/CentOS/6.3/2.6.32-902.279.9.1.letv.el6.x86_64/x64/3.10.66.29/serverspeeder_3
 bin/CentOS/6.3/2.6.32-902.279.9.1.letv.el6.x86_64/x64/3.10.45.0/serverspeeder_2130
 bin/CentOS/6.3/2.6.32-902.279.9.1.letv.el6.x86_64/x64/3.10.53.0/serverspeeder_2265
 bin/CentOS/6.3/2.6.32-902.279.9.1.letv.el6.x86_64/x64/3.10.61.0/serverspeeder_2572
+bin/CentOS/7.2/3.10.0-327.el7.x86_64/x64/3.11.20.5/serverspeeder_9999
 bin/CentOS/5.7/2.6.18-274.el5xen/x32/3.10.54.8/serverspeeder_2366
 bin/CentOS/5.7/2.6.18-274.el5xen/x32/3.11.20.4/serverspeeder_3253
 bin/CentOS/5.7/2.6.18-274.el5xen/x32/3.10.39.0/serverspeeder_1854
@@ -1222,6 +1223,7 @@ bin/Ubuntu/11.10/3.0.0-14-virtual/x64/3.9.10.49/serverspeeder_1728
 bin/Ubuntu/11.10/3.0.0-14-virtual/x64/3.10.61.0/serverspeeder_2610
 bin/Ubuntu/11.10/3.0.0-14-virtual/x64/3.10.24.1/serverspeeder_1817
 bin/Ubuntu/56/3.12.9-x86-linode56/x32/3.10.54.8/serverspeeder_2493
+bin/Ubuntu/16.04/4.4.0-47-generic/x64/3.11.20.10/serverspeeder_9999
 bin/Ubuntu/10.10/2.6.35-23-generic/x32/3.10.54.8/serverspeeder_2338
 bin/Ubuntu/10.10/2.6.35-23-generic/x32/3.10.39.0/serverspeeder_1919
 bin/Ubuntu/10.10/2.6.35-23-generic/x32/3.10.45.0/serverspeeder_2055
@@ -1277,6 +1279,9 @@ bin/Debian/5.0/2.6.26-2-amd64/x64/3.10.53.0/serverspeeder_2292
 bin/Debian/5.0/2.6.26-2-amd64/x64/3.10.39.8/serverspeeder_1994
 bin/Debian/5.0/2.6.26-2-amd64/x64/3.10.61.0/serverspeeder_2604
 bin/Debian/5.0/2.6.26-2-amd64/x64/3.10.24.1/serverspeeder_1836
+bin/Debian/8/4.4.10-1-pve/x64/3.11.20.6/serverspeeder_9999
+bin/Debian/8/3.16.0-4-amd64/x64/3.11.20.4/serverspeeder_9999
+bin/Debian/8/3.16.0-4-amd64/x64/3.10.61.0/serverspeeder_9998
 bin/Debian/7/3.18.5-x86_64-linode52/x64/3.10.61.0/serverspeeder_2693
 bin/Debian/7/3.18.1-x86-linode68/x32/3.10.61.0/serverspeeder_2673
 bin/Debian/7/3.2.32/x64/3.10.54.8/serverspeeder_2443
